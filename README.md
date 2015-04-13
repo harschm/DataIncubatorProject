@@ -1,7 +1,8 @@
 # DataIncubatorProject
 Project description:
-Household energy use is unevenly distributed over any given 24-hour period (Fig. 1). This results in greater pressure on infrastructure during peak-usage times
-and untapped capacity at non-peak usage times. One method to spread power usage over the day more evenly is to provide an economic incentive for
-household users. Data on active energy consumed within households indicates that households could better spread their power usage across the day (Fig.2). Further analysis will assess the feasibility of spreading out power usage. In particular, whether high peak daytime usage results from
-power usage in the kitchen, laundry room, or water heater. I will then assess economic incentives for consumers to spread their power usage, 
-costs to power suppliers and new pricing strategies (time-varying) to ensure no net loss for power producers. 
+Airports are noisy. Recent studies indicate that noise pollution from airport traffic increases stress level, potentially
+increasing the risk of heart disease.  Another impact from noise pollution is on home property values and resale values.
+ This project will look at the costs of airport traffic noise pollution on health and wealth. I have collected data from
+ several sources on heart disease and local demography (https://www.healthdata.gov/data/dataset/community-health-status-indicators-chsi-combat-obesity-heart-disease-and-cancer,
+housing and wealth (https://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Patterns; http://www.fhfa.gov/DataTools/Downloads/Pages/Public-Use-Databases.aspx), and airports (http://openflights.org/data.html).  The data is large, messy, and will need quite a bit of merging. I will use a maching-learning approach to tease apart how 1) airport volume affects hearth disease, 2) resale values of property and 3) how housing quality can mediate the negative impacts of airport traffice noise pollution on health.
+
